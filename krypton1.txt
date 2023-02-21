@@ -1,4 +1,5 @@
 # This task has its password encoded in base64 format so we need to decode it and then get into the 
 # room 
 # man base64
+# S1JZUFRPTklTR1JFQVQ=
 # KRYPTONISGREAT
