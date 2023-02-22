@@ -1,0 +1,4 @@
+# This one is also a vigenere cipher just that keylength is not known this time 
+# BELOS Z
+# KEYLENGTH
+# RANDO M
