@@ -6,4 +6,4 @@
 # https://www.dcode.fr/vigenere-cipher 
 # HCIKV RJOX
 # FREKEY
-# CLEAR TEXT
+# CLEAR TEXT(use it without spaces to login to next level)
