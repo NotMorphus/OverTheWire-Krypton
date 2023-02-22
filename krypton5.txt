@@ -1,0 +1,9 @@
+# This task introduces us with vigenere cipher which is a poly aphabetic cipher which uses a 26x26 
+# alphabetic table to encrypt and decrypt the code.
+# We were given a intercepted mesage and the cipher text and we were tasked with finding
+# the hidden message
+# First we decrypt the key using the message and then we use the key to find out the encrypted text
+# https://www.dcode.fr/vigenere-cipher 
+# HCIKV RJOX
+# FREKEY
+# CLEAR TEXT
